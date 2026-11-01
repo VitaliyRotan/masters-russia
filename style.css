@@ -6,3 +6,5 @@
 
 /* Investment presentation */
 .investment-grid{display:grid;grid-template-columns:1.05fr .95fr;gap:22px;margin:32px 0}.investment-highlight{padding:33px;border:1px solid #9e7f59;background:linear-gradient(125deg,#302b27,#1d1e21);border-radius:10px}.investment-amount{font:600 clamp(42px,5vw,70px)/1.05 Georgia,serif;color:#e0c7a4;margin:16px 0}.investment-highlights{display:grid;gap:13px}.investment-highlights>div{border:1px solid #585451;background:#232427;border-radius:9px;padding:20px 24px;display:flex;flex-direction:column;gap:7px}.investment-highlights strong{font-size:24px;color:#e8d0ad}.investment-highlights span{color:#c2bfc0;font-size:14px}@media(max-width:720px){.investment-grid{grid-template-columns:1fr}.investment-highlight{padding:24px}}
+
+.contact-direct{margin-top:32px;padding-top:25px;border-top:1px solid #ffffff28}.contact-person{font-size:17px;line-height:1.8;margin-bottom:18px}.contact-person strong{font-size:22px;color:#f4f1eb}
